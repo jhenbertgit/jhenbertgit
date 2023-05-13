@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Jhenbert
-#### I am Web Developer
+## Hi there 👋, my name is Jhenbert
+### I am Web Developer
 Passionate about web development and eager to learn, I'm a beginner web developer looking for opportunities to grow. With a solid foundation in the below-listed tech stack, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!
 
-### Tech Stack
+## Tech Stack
 / REACT / JS / HTML / CSS / Java / Python /
 
 
