@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhenbert</h1>
-<h3 align="center">Passionate about web development and eager to learn, I'm a beginner web developer looking for opportunities to grow. With a solid foundation in the below-listed tech stack, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!</h3>
+<h3 align="center">Passionate about web development and eager to learn,  with a solid foundation in the below-listed tech stack, I'm committed to delivering high-quality work that meets your needs. Let's create something great together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhenbertgit&label=Profile%20views&color=0e75b6&style=flat" alt="jhenbertgit" /> </p>
 
