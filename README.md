@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Sveltekit, Typescript, Tailwind CSS**
 
-- 👨‍💻 All of my projects are available at [https://jhenbert.com](https://jhenbert.com)
+- 👨‍💻 All of my projects are available at [https://jhenbert.com](https://jhenbert.pro)
 
-- 💬 Ask me about **React, Shadcn-ui, Tailwind CSS**
+- 💬 Ask me about **Svelte, Skeleton UI, Tailwind CSS**
 
 - 📫 How to reach me **hello@jhenbert.com**
 
