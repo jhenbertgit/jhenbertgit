@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhenbertgit&label=Profile%20views&color=0e75b6&style=flat" alt="jhenbertgit" /> </p>
 
-- 🌱 I’m currently learning **Sveltekit, Typescript, Tailwind CSS**
+- 🌱 I’m currently learning **Svelte (using Sveltekit as application framework), Typescript, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available [here](https://jhenbert.pro)
 
