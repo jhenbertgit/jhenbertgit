@@ -16,7 +16,7 @@ I architect performant web solutions that blend cutting-edge tools with client-c
 
 - 🌱 I’m currently learning **ML, DL, and other AI branches**
 
-- 👨‍💻 All of my projects are available [here](https://jhenbert.pro)
+- 👨‍💻 All of my projects are available [here](https://next-portfolio-umber-one.vercel.app/)
 
 - 💬 Ask me about **TN³PR Stack** _(TypeScript, Next.js, Nest.js, Prisma, Redis)_
   
